@@ -6,3 +6,4 @@
 /docker-compose.yaml
 /.dockerignore
 /.github
+/.env-didatico
