@@ -1,9 +1,7 @@
 /.env
 /node_modules
 /logs
-/Dockerfile
 /dist
-/docker-compose.yaml
 /.dockerignore
 /.github
 /.env-didatico
