@@ -1,7 +1,7 @@
 import { type Relation, Column, Entity, OneToMany, PrimaryGeneratedColumn } from "typeorm";
 import { Sensor } from "./Sensor.js";
 
-// teste
+// Criando a entidade "Area" para representar as áreas monitoradas pelos sensores
 @Entity("area")
 export default class Area {
     @PrimaryGeneratedColumn("uuid")
